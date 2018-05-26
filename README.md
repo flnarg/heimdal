@@ -1,14 +1,6 @@
-# openvpn-server-vagrant
+# Heimdal
 
-Spin up an OpenVPN Server
-
-
-## Install Vagrant, VirtualBox and git
-
-    http://www.vagrantup.com
-    https://www.virtualbox.org (don't worry about setting up any VMs as the steps below will cover this)
-    http://git-scm.com
-
+Spin up an OpenVPN Server. The Guardian of Bifrost.
 
 ## Set up
 
